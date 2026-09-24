@@ -6,7 +6,7 @@
   
 }
 ::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 1px 1px 2px #E0E0E0;
+  -webkit-box-shadow: inset 1px 1px 2px black;
   border: 11px solid transparent;
 
 }
