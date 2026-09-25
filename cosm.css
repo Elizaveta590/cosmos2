@@ -66,7 +66,7 @@ ul {
   margin-top: 15vw;
   letter-spacing: 0.2vw;
   z-index: 3;
-  color: #302c2d
+  color: white
 }
   
 li {
@@ -267,9 +267,9 @@ ul {
   transform: rotate(-90deg);
   margin-left: -245px;
   margin-top: -12vw;
-  color: black
   letter-spacing: 0.2vw;
   z-index: 3;
+  color: black
 }
   
 li {
